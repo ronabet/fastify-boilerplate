@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: fastify-boilerplate
   annotations:
-    github.com/project-slug: ronabet/fastify-boilerplate
+    circleci.com/project-slug: ronabet/fastify-boilerplate
 spec:
   type: other
   lifecycle: unknown
