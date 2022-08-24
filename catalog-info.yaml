@@ -4,6 +4,8 @@ metadata:
   name: fastify-boilerplate
   annotations:
     circleci.com/project-slug: ronabet/fastify-boilerplate
+    backstage.io/code-coverage: scm-only
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
